@@ -28,9 +28,7 @@ footer .footer-bottom {
   margin: 0 auto;
   padding: 0 3rem;
 }
-#imgt{
-  height: 400px;
-}
+
 .lead {
   font-size: 1.3rem;
 }
@@ -55,6 +53,10 @@ nav {
 nav ul {
   padding: 0;
   margin: 0;
+}
+nav li {
+  display: inline;
+  float: left;
 }
 nav a {
   display: inline-block;
